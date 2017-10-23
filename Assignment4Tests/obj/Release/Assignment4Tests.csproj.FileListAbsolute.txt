@@ -1,0 +1,6 @@
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\bin\Release\Assignment4Tests.dll
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\bin\Release\Assignment4Tests.pdb
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Release\Assignment4Tests.csprojResolveAssemblyReference.cache
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Release\Assignment4Tests.csproj.CoreCompileInputs.cache
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Release\Assignment4Tests.dll
+F:\raupjc-hw1-tests-2017-master\raupjc-hw1-tests-2017-master\Assignment4Tests\obj\Release\Assignment4Tests.pdb
